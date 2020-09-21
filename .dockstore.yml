@@ -1,5 +1,5 @@
 version: 1.2
-workflows:
+workflow:
    - subclass: CWL
      primaryDescriptorPath: /Dockstore.cwl
    - subclass: CWL
