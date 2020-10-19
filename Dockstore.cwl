@@ -1,5 +1,5 @@
 #
-# This is a messy workflow
+# This is a messy workflow with style
 #
 class: Workflow
 label: foo
@@ -19,7 +19,7 @@ hints:
     dockerPull: debian:8
     
 dct:creator:
-    foaf:name: "Solomon Shorser"
+    foaf:name: "Solomon Shorser at home"
     foaf:mbox: "solomon.shorser@oicr.on.ca"
 
 
