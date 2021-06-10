@@ -5,6 +5,11 @@ task ps {
   output {
     File procs = stdout()
   }
+  
+  meta {
+    author: "Funk it Souza2"
+    email: "not-broken@gmail.com"
+  }
 }
 
 task cgrep {
