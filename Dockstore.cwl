@@ -19,7 +19,7 @@ hints:
     dockerPull: debian:8
     
 dct:creator:
-    foaf:name: "Solomon Shorser at home"
+    foaf:name: "Solomon Shorser in space"
     foaf:mbox: "solomon.shorser@oicr.on.ca"
 
 
