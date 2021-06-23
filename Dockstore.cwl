@@ -20,7 +20,7 @@ hints:
     
 dct:creator:
     foaf:name: "Solomon Shorser in space"
-    foaf:mbox: "solomon.shorser@oicr.on.ca"
+    foaf:mbox: "not.solomon.shorser@oicr.on.ca"
 
 
 # The inputs array defines the structure of the input object that describes
